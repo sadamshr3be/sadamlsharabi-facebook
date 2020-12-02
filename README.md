@@ -6,7 +6,9 @@ cd sadamlsharabi-facebook
 
 امر التشغيل
 python2 lovehacker.py
+شرحها علـّۓ. اليوتيوب
 
+https://youtu.be/l6bTJTBOT_g
 جميع قنواتي
 
 TErmux
