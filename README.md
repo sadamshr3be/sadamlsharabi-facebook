@@ -5,7 +5,11 @@ git clone https://github.com/sadamshr3be/sadamlsharabi-facebook
 cd sadamlsharabi-facebook
 
 امر التشغيل
+
+
 python2 lovehacker.py
+
+
 شرحها علـّۓ. اليوتيوب
 
 https://youtu.be/l6bTJTBOT_g
